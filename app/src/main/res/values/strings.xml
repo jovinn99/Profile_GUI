@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="logo">logo</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="agree_user_terms_and_policy">Agree User Terms and Policy</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="hospital_name">Hospital Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="agree_user_terms_and_policy">Agree User Terms and Policy</string>
+    <string name="logo">logo</string>
+    <string name="healthcare_provider">Healthcare Provider</string>
+    <string name="donors">Donors</string>
+    <string name="choose_account_type">Choose Account Type</string>
+    <string name="donor_icon">donor icon</string>
+    <string name="hospital_icon">hospital icon</string>
+    <string name="logo">logo</string>
+    <string name="hi_there">Hi There!</string>
+    <string name="welcome_to_iheart">Welcome to iHeart!</string>
+    <string name="save">save</string>
+    <string name="my_profile">My Profile</string>
+    <string name="hospital_profile">Hospital Profile</string>
+</resources>
